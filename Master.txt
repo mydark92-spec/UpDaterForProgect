@@ -1,3 +1,7 @@
-<Version: 0.0.1>
-/data/test.zip https://wordpress.org/latest.zip
+<Version: 0.0.2>
+/data/Map001.json https://raw.githubusercontent.com/mydark92-spec/UpDaterForProgect/refs/heads/main/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/mydark92-spec/UpDaterForProgect/refs/heads/main/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/mydark92-spec/UpDaterForProgect/refs/heads/main/Map003.json
+/data/Map004.json https://raw.githubusercontent.com/mydark92-spec/UpDaterForProgect/refs/heads/main/Map004.json
+/data/Map004.json https://raw.githubusercontent.com/mydark92-spec/UpDaterForProgect/refs/heads/main/Map005.json
 <End of Version>
